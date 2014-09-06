@@ -1,0 +1,740 @@
+---
+build.dart --machine --full
+
+build.dart finished [1364 ms]
+
+---
+build.dart --machine --changed=pubspec.yaml
+[{"method":"info","params":{"message":"Took 0.3s (0.1s awaiting secondary inputs)."}}]
+build.dart finished [2192 ms]
+
+---
+build.dart --machine --changed=web/baasboxpolymer.html
+
+build.dart finished [1825 ms]
+
+---
+build.dart --machine --changed=web/baasboxpolymer.html
+
+build.dart finished [1731 ms]
+
+---
+build.dart --machine --changed=web/baasboxpolymer.html
+
+build.dart finished [1811 ms]
+
+---
+build.dart --machine --changed=web/baasboxpolymer.html
+
+build.dart finished [2028 ms]
+
+---
+build.dart --machine --changed=web/baasboxpolymer.html
+[{"method":"warning","params":{"file":"web/baasboxpolymer.html","message":"couldn't find imported asset \"lib/paper_icon.html\" in package \"paper_elements\".","line":14,"charStart":517,"charEnd":583}}]
+build.dart finished [1852 ms]
+
+---
+build.dart --machine --changed=web/baasboxpolymer.html
+[{"method":"info","params":{"message":"Took 0.4s (0.0s awaiting secondary inputs)."}}]
+[{"method":"info","params":{"message":"Took 0.5s (0.2s awaiting secondary inputs)."}}]
+build.dart finished [2810 ms]
+
+---
+build.dart --machine --changed=web/baasboxpolymer.html
+[{"method":"info","params":{"message":"Took 0.4s (0.1s awaiting secondary inputs)."}}]
+[{"method":"info","params":{"message":"Took 0.8s (0.6s awaiting secondary inputs)."}}]
+build.dart finished [2699 ms]
+
+---
+build.dart --machine --changed=web/baasboxpolymer.html
+
+build.dart finished [1917 ms]
+
+---
+build.dart --machine --changed=web/baasboxpolymer.html
+
+build.dart finished [1768 ms]
+
+---
+build.dart --machine --changed=web/baasboxpolymer.html
+
+build.dart finished [2119 ms]
+
+---
+build.dart --machine --changed=web/baasboxpolymer.html
+
+build.dart finished [2002 ms]
+
+---
+build.dart --machine --changed=web/baasboxpolymer.html
+
+build.dart finished [1922 ms]
+
+---
+build.dart --machine --changed=web/baasboxpolymer.html
+
+build.dart finished [2073 ms]
+
+---
+build.dart --machine --changed=web/clickcounter.dart
+
+build.dart finished [1933 ms]
+
+---
+build.dart --machine --changed=web/clickcounter.dart
+
+build.dart finished [1901 ms]
+
+---
+build.dart --machine --changed=web/clickcounter.dart
+
+build.dart finished [1924 ms]
+
+---
+build.dart --machine --changed=web/baasboxpolymer.html
+
+build.dart finished [1974 ms]
+
+---
+build.dart --machine --changed=web/clickcounter.dart
+
+build.dart finished [1985 ms]
+
+---
+build.dart --machine --changed=web/baasboxpolymer.html
+
+build.dart finished [1961 ms]
+
+---
+build.dart --machine --changed=web/clickcounter.dart
+
+build.dart finished [1994 ms]
+
+---
+build.dart --machine --changed=web/clickcounter.html
+[{"method":"info","params":{"message":"Took 0.5s (0.1s awaiting secondary inputs)."}}]
+build.dart finished [2731 ms]
+
+---
+build.dart --machine --removed=web/clickcounter.html
+[{"method":"warning","params":{"file":"web/baasboxpolymer.html","message":"couldn't find imported asset \"web/clickcounter.html\" in package \"baasboxpolymer\".","line":18,"charStart":631,"charEnd":675}}]
+[{"method":"warning","params":{"file":"web/baasboxpolymer.html","message":"definition for Polymer element with tag name \"click-counter\" not found.","line":30,"charStart":979,"charEnd":1009}}]
+build.dart finished [1966 ms]
+
+---
+build.dart --machine --changed=web/baasboxpolymer.html
+[{"method":"warning","params":{"file":"web/baasboxpolymer.html","message":"definition for Polymer element with tag name \"click-counter\" not found.","line":28,"charStart":896,"charEnd":946}}]
+build.dart finished [2001 ms]
+
+---
+build.dart --machine --removed=web/clickcounter.dart
+[{"method":"warning","params":{"file":"web/baasboxpolymer.html","message":"definition for Polymer element with tag name \"click-counter\" not found.","line":28,"charStart":896,"charEnd":946}}]
+build.dart finished [1871 ms]
+
+---
+build.dart --machine --changed=web/baasboxpolymer.css
+[{"method":"warning","params":{"file":"web/baasboxpolymer.html","message":"definition for Polymer element with tag name \"click-counter\" not found.","line":28,"charStart":896,"charEnd":946}}]
+build.dart finished [1924 ms]
+
+---
+build.dart --machine --changed=web/baasboxpolymer.html
+
+build.dart finished [1919 ms]
+
+---
+build.dart --machine --changed=web/baasboxpolymer.css
+
+build.dart finished [1916 ms]
+
+---
+build.dart --machine --changed=web/baasboxpolymer.html
+
+build.dart finished [1808 ms]
+
+---
+build.dart --machine --changed=web/baasboxpolymer.html
+
+build.dart finished [1905 ms]
+
+---
+build.dart --machine --changed=web/baasboxpolymer.html
+
+build.dart finished [1806 ms]
+
+---
+build.dart --machine --changed=web/baasboxpolymer.html
+
+build.dart finished [1951 ms]
+
+---
+build.dart --machine --changed=web/baasboxpolymer.html
+[{"method":"warning","params":{"file":"web/baasboxpolymer.html","message":"Only one \"application/dart\" script tag per document is allowed.","line":31,"charStart":986,"charEnd":1018}}]
+build.dart finished [1973 ms]
+
+---
+build.dart --machine --changed=web/baasboxpolymer.dart
+[{"method":"warning","params":{"file":"web/baasboxpolymer.html","message":"Only one \"application/dart\" script tag per document is allowed.","line":31,"charStart":986,"charEnd":1018}}]
+build.dart finished [2153 ms]
+
+---
+build.dart --machine --changed=web/baasboxpolymer.html
+
+build.dart finished [1999 ms]
+
+---
+build.dart --machine --removed=web/baasboxpolymer.dart
+
+build.dart finished [1837 ms]
+
+---
+build.dart --machine --changed=web/fetch_users_button.html
+
+build.dart finished [1889 ms]
+
+---
+build.dart --machine --changed=web/fetch_users_button.html
+[{"method":"warning","params":{"file":"web/fetch_users_button.html","message":"Missing definition for <polymer-element>, please add the following HTML import at the top of this file: <link rel=\"import\" href=\"packages/polymer/polymer.html\">.","line":1,"charStart":0,"charEnd":54}}]
+build.dart finished [1848 ms]
+
+---
+build.dart --machine --changed=web/fetch_users_button.dart
+[{"method":"warning","params":{"file":"web/fetch_users_button.html","message":"Missing definition for <polymer-element>, please add the following HTML import at the top of this file: <link rel=\"import\" href=\"packages/polymer/polymer.html\">.","line":1,"charStart":0,"charEnd":54}}]
+build.dart finished [1865 ms]
+
+---
+build.dart --machine --changed=web/fetch_users_button.html
+[{"method":"warning","params":{"file":"web/fetch_users_button.html","message":"Missing definition for <polymer-element>, please add the following HTML import at the top of this file: <link rel=\"import\" href=\"packages/polymer/polymer.html\">.","line":1,"charStart":0,"charEnd":63}}]
+[{"method":"error","params":{"file":"web/fetch_users_button.html","message":"Invalid name \"fetch_users_button\". Custom element names must have at least one dash and can't be any of the following names: annotation-xml, color-profile, font-face, font-face-src, font-face-uri, font-face-format, font-face-name, missing-glyph.","line":1,"charStart":0,"charEnd":63}}]
+[{"method":"warning","params":{"file":"web/fetch_users_button.html","message":"custom element with name \"paper-fab\" not found.","line":1,"charStart":0,"charEnd":63}}]
+build failed with errors: {Transform polymer (Linter) on baasboxpolymer|web/fetch_users_button.html threw error: Invalid name "fetch_users_button". Custom element names must have at least one dash and can't be any of the following names: annotation-xml, color-profile, font-face, font-face-src, font-face-uri, font-face-format, font-face-name, missing-glyph.}
+build.dart finished [1777 ms]
+
+---
+build.dart --machine --changed=web/fetch_users_button.html
+[{"method":"warning","params":{"file":"web/fetch_users_button.html","message":"Missing definition for <polymer-element>, please add the following HTML import at the top of this file: <link rel=\"import\" href=\"packages/polymer/polymer.html\">.","line":1,"charStart":0,"charEnd":60}}]
+[{"method":"warning","params":{"file":"web/fetch_users_button.html","message":"custom element with name \"paper-fab\" not found.","line":1,"charStart":0,"charEnd":60}}]
+build.dart finished [1827 ms]
+
+---
+build.dart --machine --changed=web/fetch_users_button.html
+[{"method":"warning","params":{"file":"web/fetch_users_button.html","message":"Missing definition for <polymer-element>, please add the following HTML import at the top of this file: <link rel=\"import\" href=\"packages/polymer/polymer.html\">.","line":1,"charStart":0,"charEnd":60}}]
+[{"method":"warning","params":{"file":"web/fetch_users_button.html","message":"custom element with name \"paper-fab\" not found.","line":1,"charStart":0,"charEnd":60}}]
+build.dart finished [1879 ms]
+
+---
+build.dart --machine --changed=web/fetch_users_fab.dart --removed=web/fetch_users_button.dart
+[{"method":"warning","params":{"file":"web/fetch_users_button.html","message":"Missing definition for <polymer-element>, please add the following HTML import at the top of this file: <link rel=\"import\" href=\"packages/polymer/polymer.html\">.","line":1,"charStart":0,"charEnd":60}}]
+[{"method":"warning","params":{"file":"web/fetch_users_button.html","message":"custom element with name \"paper-fab\" not found.","line":1,"charStart":0,"charEnd":60}}]
+build.dart finished [1878 ms]
+
+---
+build.dart --machine --changed=web/fetch_users_fab.html --removed=web/fetch_users_button.html
+[{"method":"warning","params":{"file":"web/fetch_users_fab.html","message":"Missing definition for <polymer-element>, please add the following HTML import at the top of this file: <link rel=\"import\" href=\"packages/polymer/polymer.html\">.","line":1,"charStart":0,"charEnd":60}}]
+[{"method":"warning","params":{"file":"web/fetch_users_fab.html","message":"custom element with name \"paper-fab\" not found.","line":1,"charStart":0,"charEnd":60}}]
+build.dart finished [1863 ms]
+
+---
+build.dart --machine --changed=web/fetch_users_fab.html
+[{"method":"warning","params":{"file":"web/fetch_users_fab.html","message":"Missing definition for <polymer-element>, please add the following HTML import at the top of this file: <link rel=\"import\" href=\"packages/polymer/polymer.html\">.","line":1,"charStart":0,"charEnd":60}}]
+[{"method":"warning","params":{"file":"web/fetch_users_fab.html","message":"custom element with name \"paper-fab\" not found.","line":1,"charStart":0,"charEnd":60}}]
+build.dart finished [1880 ms]
+
+---
+build.dart --machine --changed=web/fetch_users_fab.dart
+[{"method":"warning","params":{"file":"web/fetch_users_fab.html","message":"Missing definition for <polymer-element>, please add the following HTML import at the top of this file: <link rel=\"import\" href=\"packages/polymer/polymer.html\">.","line":1,"charStart":0,"charEnd":60}}]
+[{"method":"warning","params":{"file":"web/fetch_users_fab.html","message":"custom element with name \"paper-fab\" not found.","line":1,"charStart":0,"charEnd":60}}]
+build.dart finished [1885 ms]
+
+---
+build.dart --machine --changed=web/fetch_users_fab.dart
+[{"method":"warning","params":{"file":"web/fetch_users_fab.html","message":"Missing definition for <polymer-element>, please add the following HTML import at the top of this file: <link rel=\"import\" href=\"packages/polymer/polymer.html\">.","line":1,"charStart":0,"charEnd":60}}]
+[{"method":"warning","params":{"file":"web/fetch_users_fab.html","message":"custom element with name \"paper-fab\" not found.","line":1,"charStart":0,"charEnd":60}}]
+build.dart finished [1846 ms]
+
+---
+build.dart --machine --changed=web/fetch_users_fab.dart
+[{"method":"warning","params":{"file":"web/fetch_users_fab.html","message":"Missing definition for <polymer-element>, please add the following HTML import at the top of this file: <link rel=\"import\" href=\"packages/polymer/polymer.html\">.","line":1,"charStart":0,"charEnd":60}}]
+[{"method":"warning","params":{"file":"web/fetch_users_fab.html","message":"custom element with name \"paper-fab\" not found.","line":1,"charStart":0,"charEnd":60}}]
+build.dart finished [1855 ms]
+
+---
+build.dart --machine --changed=web/fetch_users_fab.dart --changed=web/fetch_users_fab.html
+[{"method":"warning","params":{"file":"web/fetch_users_fab.html","message":"custom element with name \"paper-fab\" not found.","line":2,"charStart":60,"charEnd":120}}]
+build.dart finished [1884 ms]
+
+---
+build.dart --machine --changed=web/fetch_users_fab.html
+
+build.dart finished [2014 ms]
+
+---
+build.dart --machine --changed=web/fetch_users_fab.dart
+
+build.dart finished [1855 ms]
+
+---
+build.dart --machine --changed=web/fetch_users_fab.dart
+
+build.dart finished [1859 ms]
+
+---
+build.dart --machine --changed=web/baasboxpolymer.html
+[{"method":"warning","params":{"file":"web/baasboxpolymer.html","message":"definition for Polymer element with tag name \"fetch-users-fab\" not found.","line":25,"charStart":811,"charEnd":843}}]
+build.dart finished [1983 ms]
+
+---
+build.dart --machine --changed=web/baasboxpolymer.html
+[{"method":"warning","params":{"file":"web/baasboxpolymer.html","message":"couldn't find imported asset \"web/fetch-users-fab.html\" in package \"baasboxpolymer\".","line":15,"charStart":522,"charEnd":569}}]
+[{"method":"warning","params":{"file":"web/baasboxpolymer.html","message":"definition for Polymer element with tag name \"fetch-users-fab\" not found.","line":25,"charStart":793,"charEnd":825}}]
+build.dart finished [1926 ms]
+
+---
+build.dart --machine --changed=web/baasboxpolymer.html
+
+build.dart finished [1943 ms]
+
+---
+build.dart --machine --changed=web/fetch_users_fab.html
+
+build.dart finished [1990 ms]
+
+---
+build.dart --machine --removed=web/fetch_users_fab.dart
+
+build.dart finished [1913 ms]
+
+---
+build.dart --machine --removed=web/fetch_users_fab.html
+[{"method":"warning","params":{"file":"web/baasboxpolymer.html","message":"couldn't find imported asset \"web/fetch_users_fab.html\" in package \"baasboxpolymer\".","line":15,"charStart":522,"charEnd":569}}]
+[{"method":"warning","params":{"file":"web/baasboxpolymer.html","message":"definition for Polymer element with tag name \"fetch-users-fab\" not found.","line":25,"charStart":793,"charEnd":825}}]
+build.dart finished [1787 ms]
+
+---
+build.dart --machine --changed=web/baasboxpolymer.html
+[{"method":"warning","params":{"file":"web/baasboxpolymer.html","message":"definition for Polymer element with tag name \"fetch-users-fab\" not found.","line":25,"charStart":811,"charEnd":843}}]
+build.dart finished [2011 ms]
+
+---
+build.dart --machine --changed=web/baasboxpolymer.html
+
+build.dart finished [1902 ms]
+
+---
+build.dart --machine --changed=web/baasboxpolymer.html
+
+build.dart finished [1975 ms]
+
+---
+build.dart --machine --changed=web/baasbox_users_list.dart
+
+build.dart finished [1909 ms]
+
+---
+build.dart --machine --changed=web/baasbox_users_list.dart
+
+build.dart finished [1880 ms]
+
+---
+build.dart --machine --changed=web/baasbox_users_list.dart
+
+build.dart finished [1857 ms]
+
+---
+build.dart --machine --changed=web/baasbox_users_list.html
+
+build.dart finished [1921 ms]
+
+---
+build.dart --machine --changed=web/baasbox_users_list.html
+
+build.dart finished [1837 ms]
+
+---
+build.dart --machine --changed=web/baasbox_users_list.html
+
+build.dart finished [1918 ms]
+
+---
+build.dart --machine --changed=web/baasboxpolymer.html
+[{"method":"warning","params":{"file":"web/baasboxpolymer.html","message":"definition for Polymer element with tag name \"baasbox-users-list\" not found.","line":30,"charStart":903,"charEnd":931}}]
+build.dart finished [1869 ms]
+
+---
+build.dart --machine --changed=web/baasboxpolymer.html
+
+build.dart finished [2035 ms]
+
+---
+build.dart --machine --changed=web/baasbox_users_list.dart
+
+build.dart finished [1950 ms]
+
+---
+build.dart --machine --changed=web/baasbox_users_list.dart
+
+build.dart finished [1921 ms]
+
+---
+build.dart --machine --changed=pubspec.yaml
+
+build.dart finished [2282 ms]
+
+---
+build.dart --machine --changed=web/baasbox_users_list.dart
+
+build.dart finished [1834 ms]
+
+---
+build.dart --machine --changed=web/baasbox_users_list.dart
+
+build.dart finished [1852 ms]
+
+---
+build.dart --machine --changed=web/baasbox_users_list.dart
+
+build.dart finished [1804 ms]
+
+---
+build.dart --machine --changed=web/baasbox_users_list.dart
+
+build.dart finished [2005 ms]
+
+---
+build.dart --machine --changed=web/baasbox_users_list.dart
+
+build.dart finished [1821 ms]
+
+---
+build.dart --machine --changed=web/baasbox_users_list.dart
+
+build.dart finished [1824 ms]
+
+---
+build.dart --machine --changed=web/baasbox_users_list.html
+[{"method":"warning","params":{"file":"web/baasboxpolymer.html","message":"custom element \"baasbox-users-list\" doesn't declare any type extensions. To fix this, either rewrite this tag as <baasbox-users-list> or add 'extends=\"li\"' to the custom element declaration.","line":31,"charStart":958,"charEnd":986}}]
+build.dart finished [2071 ms]
+
+---
+build.dart --machine --changed=web/baasboxpolymer.html
+
+build.dart finished [2044 ms]
+
+---
+build.dart --machine --changed=web/baasbox_users_list.html
+[{"method":"warning","params":{"file":"web/baasbox_users_list.html","message":"definition for Polymer element with tag name \"task-element\" not found.","line":8,"charStart":242,"charEnd":280}}]
+build.dart finished [2062 ms]
+
+---
+build.dart --machine --changed=web/baasbox_users_list.html
+
+build.dart finished [2126 ms]
+
+---
+build.dart --machine --changed=web/baasbox_users_list.html
+
+build.dart finished [1961 ms]
+
+---
+build.dart --machine --changed=web/baasbox_users_list.html
+
+build.dart finished [1928 ms]
+
+---
+build.dart --machine --changed=web/baasbox_users_list.html
+
+build.dart finished [1946 ms]
+
+---
+build.dart --machine --changed=web/baasbox_users_list.dart
+[{"method":"info","params":{"message":"Took 0.6s (0.3s awaiting secondary inputs)."}}]
+build.dart finished [2994 ms]
+
+---
+build.dart --machine --changed=web/baasbox_users_list.dart
+
+build.dart finished [2050 ms]
+
+---
+build.dart --machine --changed=web/baasboxpolymer.html
+
+build.dart finished [2039 ms]
+
+---
+build.dart --machine --changed=web/baasbox_users_list.dart
+
+build.dart finished [1910 ms]
+
+---
+build.dart --machine --changed=web/baasbox_users_list.dart
+
+build.dart finished [1936 ms]
+
+---
+build.dart --machine --changed=web/baasbox_users_list.html
+
+build.dart finished [3250 ms]
+
+---
+build.dart --machine --changed=web/baasbox_users_list.html
+
+build.dart finished [2418 ms]
+
+---
+build.dart --machine --changed=web/baasboxpolymer.html
+
+build.dart finished [1988 ms]
+
+---
+build.dart --machine --changed=web/baasbox_users_list.html
+[{"method":"info","params":{"message":"Took 0.4s (0.2s awaiting secondary inputs)."}}]
+build.dart finished [3023 ms]
+
+---
+build.dart --machine --changed=web/baasbox_users_list.html
+[{"method":"warning","params":{"file":"web/baasbox_users_list.html","message":"definition for Polymer element with tag name \"paper-fab\" not found.","line":7,"charStart":141,"charEnd":167}}]
+build.dart finished [2149 ms]
+
+---
+build.dart --machine --changed=web/baasbox_users_list.html
+
+build.dart finished [1971 ms]
+
+---
+build.dart --machine --changed=web/baasbox_users_list.html
+[{"method":"info","params":{"message":"Took 0.9s (0.6s awaiting secondary inputs)."}}]
+[{"method":"info","params":{"message":"Took 0.9s (0.6s awaiting secondary inputs)."}}]
+build.dart finished [3428 ms]
+
+---
+build.dart --machine --changed=web/baasbox_users_list.html
+[{"method":"info","params":{"message":"Took 0.4s (0.2s awaiting secondary inputs)."}}]
+[{"method":"info","params":{"message":"Took 0.4s (0.2s awaiting secondary inputs)."}}]
+build.dart finished [3204 ms]
+
+---
+build.dart --machine --changed=web/baasbox_users_list.html
+
+build.dart finished [1988 ms]
+
+---
+build.dart --machine --changed=web/baasboxpolymer.html
+[{"method":"info","params":{"message":"Took 0.4s (0.0s awaiting secondary inputs)."}}]
+[{"method":"info","params":{"message":"Took 0.5s (0.1s awaiting secondary inputs)."}}]
+build.dart finished [2964 ms]
+
+---
+build.dart --machine --changed=web/baasboxpolymer.html
+[{"method":"info","params":{"message":"Took 0.6s (0.4s awaiting secondary inputs)."}}]
+[{"method":"info","params":{"message":"Took 0.8s (0.4s awaiting secondary inputs)."}}]
+build.dart finished [2823 ms]
+
+---
+build.dart --machine --changed=web/baasbox_users_list.html
+
+build.dart finished [1949 ms]
+
+---
+build.dart --machine --changed=web/baasbox_users_list.html
+[{"method":"info","params":{"message":"Took 1.1s (0.9s awaiting secondary inputs)."}}]
+[{"method":"info","params":{"message":"Took 1.2s (0.9s awaiting secondary inputs)."}}]
+build.dart finished [2990 ms]
+
+---
+build.dart --machine --changed=web/baasbox_users_list.html
+[{"method":"info","params":{"message":"Took 0.8s (0.6s awaiting secondary inputs)."}}]
+[{"method":"info","params":{"message":"Took 0.8s (0.5s awaiting secondary inputs)."}}]
+build.dart finished [3101 ms]
+
+---
+build.dart --machine --changed=web/baasbox_users_list.html
+[{"method":"info","params":{"message":"Took 0.6s (0.4s awaiting secondary inputs)."}}]
+[{"method":"info","params":{"message":"Took 0.6s (0.4s awaiting secondary inputs)."}}]
+build.dart finished [3020 ms]
+
+---
+build.dart --machine --changed=web/baasbox_users_list.html
+
+build.dart finished [1944 ms]
+
+---
+build.dart --machine --changed=web/baasbox_users_list.html
+
+build.dart finished [2725 ms]
+
+---
+build.dart --machine --changed=web/baasbox_users_list.html
+
+build.dart finished [1886 ms]
+
+---
+build.dart --machine --changed=web/baasbox_users_list.html
+
+build.dart finished [2193 ms]
+
+---
+build.dart --machine --changed=web/baasbox_users_list.dart
+
+build.dart finished [1768 ms]
+
+---
+build.dart --machine --changed=web/baasbox_users_list.html
+
+build.dart finished [3098 ms]
+
+---
+build.dart --machine --changed=web/baasbox_users_list.html
+
+build.dart finished [2634 ms]
+
+---
+build.dart --machine --changed=web/baasbox_users_list.html
+
+build.dart finished [1942 ms]
+
+---
+build.dart --machine --changed=web/baasbox_users_list.dart
+
+build.dart finished [1798 ms]
+
+---
+build.dart --machine --changed=web/baasbox_users_list.html
+[{"method":"warning","params":{"file":"web/baasbox_users_list.html","message":"Missing definition for <polymer-element>, please add the following HTML import at the top of this file: <link rel=\"import\" href=\"packages/polymer/polymer.html\">.","line":3,"charStart":17,"charEnd":60}}]
+build.dart finished [1880 ms]
+
+---
+build.dart --machine --changed=web/baasbox_users_list.html
+
+build.dart finished [1877 ms]
+
+---
+build.dart --machine --changed=web/baasbox_users_list.html
+[{"method":"info","params":{"message":"Took 0.4s (0.1s awaiting secondary inputs)."}}]
+[{"method":"info","params":{"message":"Took 0.5s (0.2s awaiting secondary inputs)."}}]
+build.dart finished [2812 ms]
+
+---
+build.dart --machine --changed=web/baasbox_users_list.dart
+
+build.dart finished [1879 ms]
+
+---
+build.dart --machine --changed=web/baasbox_users_list.dart
+
+build.dart finished [2066 ms]
+
+---
+build.dart --machine --changed=web/baasbox_users_list.html
+
+build.dart finished [1994 ms]
+
+---
+build.dart --machine --changed=web/baasboxpolymer.html
+
+build.dart finished [1933 ms]
+
+---
+build.dart --machine --changed=web/baasbox_users_list.dart
+
+build.dart finished [1840 ms]
+
+---
+build.dart --machine --changed=web/baasbox_users_list.dart
+
+build.dart finished [1762 ms]
+
+---
+build.dart --machine --changed=web/baasbox_users_list.html
+
+build.dart finished [1870 ms]
+
+---
+build.dart --machine --changed=web/baasbox_users_list.dart
+
+build.dart finished [1812 ms]
+
+---
+build.dart --machine --changed=web/baasbox_users_list.html
+
+build.dart finished [2288 ms]
+
+---
+build.dart --machine --changed=web/baasbox_users_list.html
+
+build.dart finished [2019 ms]
+
+---
+build.dart --machine --changed=web/baasbox_users_list.html
+
+build.dart finished [2007 ms]
+
+---
+build.dart --machine --changed=web/baasboxpolymer.html
+
+build.dart finished [1950 ms]
+
+---
+build.dart --machine --changed=web/baasboxpolymer.html
+
+build.dart finished [1992 ms]
+
+---
+build.dart --machine --changed=web/baasbox_users_list.html
+
+build.dart finished [1920 ms]
+
+---
+build.dart --machine --changed=web/baasbox_users_list.dart
+
+build.dart finished [2020 ms]
+
+---
+build.dart --machine --changed=web/baasbox_users_list.dart
+
+build.dart finished [1988 ms]
+
+---
+build.dart --machine --changed=web/baasbox_users_list.dart
+
+build.dart finished [1988 ms]
+
+---
+build.dart --machine --changed=web/baasbox_users_list.html
+[{"method":"warning","params":{"file":"web/baasbox_users_list.html","message":"definition for Polymer element with tag name \"core-menu\" not found.","line":13,"charStart":389,"charEnd":400}}]
+build.dart finished [1955 ms]
+
+---
+build.dart --machine --changed=web/baasbox_users_list.html
+[{"method":"warning","params":{"file":"web/baasbox_users_list.html","message":"definition for Polymer element with tag name \"core-menu\" not found.","line":13,"charStart":389,"charEnd":400}}]
+[{"method":"warning","params":{"file":"web/baasbox_users_list.html","message":"definition for Polymer element with tag name \"paper-item\" not found.","line":15,"charStart":472,"charEnd":510}}]
+build.dart finished [2056 ms]
+
+---
+build.dart --machine --changed=web/baasbox_users_list.html
+[{"method":"warning","params":{"file":"web/baasbox_users_list.html","message":"definition for Polymer element with tag name \"paper-item\" not found.","line":16,"charStart":537,"charEnd":575}}]
+build.dart finished [2263 ms]
+
+---
+build.dart --machine --changed=web/baasbox_users_list.html
+
+build.dart finished [2357 ms]
+
+---
+build.dart --machine --changed=web/baasboxpolymer.css
+
+build.dart finished [2066 ms]
+
+---
+build.dart --machine --changed=web/baasbox_users_list.html
+
+build.dart finished [2126 ms]
+
+---
+build.dart --machine --changed=web/baasbox_users_list.html
+
+build.dart finished [2118 ms]
+
+---
+build.dart --machine --changed=pubspec.yaml
+
+build.dart finished [1946 ms]
+

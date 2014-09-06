@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<link rel="import" href="../packages/polymer/polymer.html">
+<link href="packages/core_elements/core_icons.html" rel="import">
+<link rel="import" href="packages/core_elements/core_menu.html">
+    
+<link rel="import" href="packages/paper_elements/paper_fab.html">
+<link rel="import" href="packages/paper_elements/paper_item.html">
+
+<polymer-element name="baasbox-users-list">
+
+  <template>
+      <h1>BaasBox Users List </h1>
+  
+      <paper-fab icon="refresh" on-click="{{populateList}}">T</paper-fab>
+      <core-menu>
+            <template repeat="{{user in baasboxUsers}}">
+              <paper-item label="{{user.username}}"> </paper-item>
+            </template>
+      </core-menu>
+           </template>
+  
+  <script type="application/dart" src="baasbox_users_list.dart"></script>
+
+</polymer-element>
